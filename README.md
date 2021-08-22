@@ -1,18 +1,18 @@
 # README Generator
 ## Table of Contents 
-    <li><a href="#description">[Description]</a></li>
-    <li><a href="#installation">[Installation]</a></li>
-    <li><a href="#usage">[Usage]</a></li>
-    <li><a href="#license">[Licensing]</a></li>
-    <li><a href="#contribution">Contribution]</a></li>
-    <li><a href="#testing">[Testing]</a></li>
-    <li><a href="#questions">[Questions]</a></li>
+    - [Description](#description)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Licensing](#licensing)
+    - [Contribution](#contribution)
+    - [Testing](#testing)
+    - [Questions](#questions)
 ## Description:
-    This project generates a professional readme page automatically using user inputs.
+    This app allows you to quickly create a professional README file by simple user input
 ## Installation:
     GitHub SSH
 ## Usage:
-    Simply download & run the app.js file through node
+    Simply download the project through GitHub and run the app.js file through node
 ## License:
     Apache
 ## Contribution:
@@ -20,5 +20,6 @@
 ## Testing:
     N/A
 ## Questions:
-    - Github: [ericjcili](https://github.com/undefined)
+    - GitHub Username: [ericjcili]
+    - GitHub link:https://github.com/ericjcili
     - Email: ericjcili@gmail.com 
