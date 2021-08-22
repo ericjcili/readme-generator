@@ -1,21 +1,28 @@
 # README Generator
 ## Table of Contents 
 [Description](#description)
+
 [Installation](#installation)
+
 [Usage](#usage)
+
 [Licensing](#licensing)
-[Contribution](#contribution)
+
+[Contributors](#contributors)
+
 [Testing](#testing)
+
 [Questions](#questions)
+
 ## Description:
-    Creates a README file quickly by user input
+    This project allows you to quickly create a README file simply by user input.
 ## Installation:
     GitHub SSH
 ## Usage:
-    Simply download the project through GitHub and run app.js through node
+    Simply download the project and run the app.js file through node
 ## License:
     Apache
-## Contribution:
+## Contributors:
     Eric Cili
 ## Testing:
     N/A
