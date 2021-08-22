@@ -1,13 +1,13 @@
 function generateReadme(data) {
     return `# ${data.name}
 ## Table of Contents 
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Licensing](#licensing)
-    - [Contribution](#contribution)
-    - [Testing](#testing)
-    - [Questions](#questions)
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[Licensing](#licensing)
+[Contribution](#contribution)
+[Testing](#testing)
+[Questions](#questions)
 ## Description:
     ${data.description}
 ## Installation:
