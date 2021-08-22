@@ -2,7 +2,7 @@ function generateReadme(data) {
     return `# ${data.name}
 ## Licensing: 
 [${data.license}]
-[!License](https://img.shields.io/badge/License-${data.license}%202.0-blue.svg)]
+[![License](https://img.shields.io/badge/License-${data.license}%202.0-blue.svg)]
 ## Table of Contents 
 [Description](#description)
 
