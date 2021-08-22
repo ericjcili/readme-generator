@@ -16,11 +16,11 @@
 [Questions](#questions)
 
 ## Description:
-    This project creates a professional README file by user input.
+    This project creates a readme file based on user input
 ## Installation:
     GitHub SSH
 ## Usage:
-    Simply download the prject and run index.js through node
+    Simply download the project file through GitHub and run index.js through node
 ## Contributors:
     Eric Cili
 ## Testing:
